@@ -1,0 +1,8 @@
+2026-10-29 09:00:11 AUTH_FAIL user=alex source_ip=192.0.2.45 reason=invalid_password
+2026-10-29 09:00:19 AUTH_FAIL user=alex source_ip=192.0.2.45 reason=invalid_password
+2026-10-29 09:00:27 AUTH_FAIL user=alex source_ip=192.0.2.45 reason=invalid_password
+2026-10-29 09:00:35 AUTH_FAIL user=alex source_ip=192.0.2.45 reason=invalid_password
+2026-10-29 09:01:02 AUTH_SUCCESS user=alex source_ip=192.0.2.45
+2026-10-29 09:04:15 AUTH_FAIL user=jamie source_ip=192.0.2.90 reason=invalid_password
+2026-10-29 09:05:20 AUTH_SUCCESS user=jamie source_ip=192.0.2.90
+2026-10-29 09:10:33 AUTH_FAIL user=alex source_ip=192.0.2.45 reason=invalid_password
